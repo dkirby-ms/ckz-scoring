@@ -1,0 +1,3 @@
+[submodule "scoring"]
+	path = scoring
+	url = https://github.com/dkirby-ms/scoring.git
